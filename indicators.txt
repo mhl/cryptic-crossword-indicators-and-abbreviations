@@ -1,25 +1,3 @@
-Newsgroups: rec.puzzles.crosswords
-Path: sparky!uunet!pipex!demon!dickens.demon.co.uk!ross
-From: r...@dickens.demon.co.uk (Ross Beresford)
-Subject: Indicator List (SPOILER)
-Message-ID: <1992Jun13.074013.6984@dickens.demon.co.uk>
-Organization: Ross Beresford's Internet Point, Reading, UK
-Distribution: rec
-Date: Sat, 13 Jun 92 07:40:13 GMT
-Lines: 2826
-
-The following list is derived from indicators used in a variety of
-crosswords: the letters in the left column are the letters being
-indicated; the right hand column is how these letters might be
-indicated in a clue.
-
-Caveat emptor: many of the entries in this list would be considered
-unsound in some puzzles (some of these unsound indicators are marked
-with a +). Entries marked * are used mostly in advanced cryptics.
-
-I would welcome corrections and additions to the list.
-
-----------------------------------------------------------------------
 a               Austria
 a               I
 a               academician
@@ -2827,10 +2805,3 @@ z               zeta
 zo              cross *
 zr              Zaire
 zz              (sound of) snoring
-----------------------------------------------------------------------
-
--- 
-Ross Beresford,   | Email (trusted): rbere...@cix.compulink.co.uk
-10 Wagtail Close, |          (work): r...@siesoft.co.uk
-Twyford, Reading, |    (under test): r...@dickens.demon.co.uk
-RG10 9ED, UK      |
