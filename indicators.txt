@@ -273,7 +273,8 @@ aye             always
 aye             ever
 aye             yes
 az              Azed
-az              scope, plenty of
+az              scope
+az              plenty of scope
 b               Bach
 b               Beethoven
 b               Belgium
@@ -2731,7 +2732,8 @@ x               chi
 x               chromosome
 x               cross
 x               draw
-x               ex,Exe
+x               ex
+x               Exe
 x               film
 x               illiterate's signature
 x               kiss
