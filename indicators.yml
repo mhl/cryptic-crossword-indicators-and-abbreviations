@@ -10,6 +10,7 @@
    a: afternoon
    a: aleph
    a: alpha
+   a: alto
    a: amateur
    a: ampere
    a: an
@@ -17,8 +18,8 @@
    a: angstrom
    a: answer
    a: ante
-   a: are (metric)
-   a: articles - English
+   a: are
+   a: articles
    a: associate
    a: atomic
    a: ay
@@ -44,8 +45,11 @@
    a: note +
    a: one *
    a: paper
+   a: per
    a: road
-   a: strings (violin)
+   a: strings
+   a: violin string
+   a: string
    a: un
    a: unit
    a: violin string
@@ -59,7 +63,7 @@
    ab: salt
    ab: seaman
    ab: tar
-   abbe: priest (Fr.)
+   abbe: priest (French)
    abe: Lincoln
    abel: first victim
    abel: murder victim
@@ -101,11 +105,12 @@
    ad: now
    ad: nowadays
    ad: our time
-   ad: era
+   ad: our era
    ad: period
    ad: present day
    ad: promotion
    ad: puff
+   ad: era
    ad: this era
    ad: today
    adam: first character
@@ -126,13 +131,15 @@
    aet: aged
    ag: silver
    aga: Muslim leader
-   age: (long) time
+   age: long time
+   age: time
    age: mature
    age: period
    agent: spy
    agm: annual meeting
    agm: meeting
    agm: yearly meeting
+   ai: ace
    ai: capital
    ai: first class
    ai: good
@@ -140,7 +147,7 @@
    ai: main road
    ai: sloth
    ail: trouble
-   ain: own (Scot.)
+   ain: own (Scottish)
    air: appearance
    air: display
    air: song
@@ -157,10 +164,11 @@
    ala: Alabama
    ala: after the style of
    ala: in the style of
-   ala: to the (Fr.)
+   ala: to the (French)
    ala: wings
    alas: Alaska
    alb: one pound
+   alb: vestment
    ale: beer
    aleph: Hebrew letter
    all: completely
@@ -192,6 +200,7 @@
    an: I
    an: articles - English
    an: before
+   an: if
    an: if (old word)
    an: one *
    an: un
@@ -206,6 +215,7 @@
    ans: brief reply
    ans: collection
    ans: short answer
+   ant: if it
    ant: if it (old word)
    ant: six-footer
    ant: social worker
@@ -248,6 +258,7 @@
    asis: existing state
    asp: snake
    ass: donkey
+   ass: fool
    asti: wine
    ate: goddess
    ate: mischief
@@ -255,9 +266,9 @@
    ation: at one on
    atoll: bikini
    au: gold
-   au: to the (Fr.)
+   au: to the (French)
    aus: Australia
-   aux: to the (Fr.)
+   aux: to the (French)
    av: bible
    av: lived so long
    ave: average
@@ -279,9 +290,9 @@
    aye: ever
    aye: yes
    az: Azed
-   az: scope
-   az: plenty of scope
+   az: scope, plenty of
    b: Bach
+   b: bass
    b: Beethoven
    b: Belgium
    b: Brahms
@@ -313,6 +324,7 @@
    b: second
    b: second class
    b: second letter
+   b: soft
    b: three hundred
    b: three thousand
    b: vitamin
@@ -359,9 +371,12 @@
    beta: Greek letter
    beth: Hebrew letter
    bi: double
-   bi: two (double)
+   bi: two
+   bi: vitamin
    bird: prison
-   bis: two (twice)
+   bis: two
+   bis: twice
+   bis: again
    bit: chewed
    bit: piece
    biz: business
@@ -388,10 +403,12 @@
    br: brown *
    br: lines
    br: landline
-   br: railway(s)
+   br: railway
+   br: railways
    br: trains
    br: transport
-   bra: female support(er)
+   bra: female support
+   bra: female supporter
    bra: support
    bra: undergarment
    brass: money
@@ -405,13 +422,15 @@
    bull: American policeman
    bull: gold
    bus: transport
+   by: times
    c: Celsius
    c: centigrade
    c: Charles
    c: Conservative
    c: Cuba
-   c: about (approx.)
-   c: approx(imately)
+   c: about
+   c: approximately
+   c: approx
    c: around
    c: cape
    c: caput
@@ -426,6 +445,7 @@
    c: circa
    c: club
    c: cold
+   c: college
    c: complex number
    c: copyright
    c: coulomb
@@ -443,11 +463,13 @@
    c: spring
    c: tap
    c: vitamin
-   ca: about (approx.)
+   ca: about
+   ca: approx
    ca: accountant
-   ca: approx(imately)
+   ca: approximately
    ca: calcium
    ca: roughly
+   ca: cases
    cab: transport
    cade: conspirator
    cain: first murderer
@@ -456,7 +478,7 @@
    cal: California
    cam: river
    can: able to +
-   can: is able to
+   can: is able to +
    can: prison
    can: vessel
    cantuar: archbishop
@@ -470,20 +492,21 @@
    cato: censor
    cattle: neat
    cave: warning
-   cb: Seabee (Amer.)
+   cb: Seabee (American)
    cc: county council
    cc: seas
    cc: small measure
    cc: small quantity
    cc: two hundred
    cd: diplomat
+   cd: record
    cd: seedy
    ce: Church of England
    ce: church
    ce: engineers
-   ce: this (Fr.)
+   ce: this (French)
    cent: money
-   cet: this (Fr.)
+   cet: this (French)
    ch: China
    ch: Companion of Honour
    ch: Switzerland
@@ -504,8 +527,8 @@
    char: daily
    che: guerrilla
    che: revolutionary
-   cher: dear (Fr.)
-   chere: dear (Fr.)
+   cher: dear (French)
+   chere: dear (French)
    chi: Greek letter
    ci: Channel Islands
    ci: hundred and one
@@ -517,10 +540,12 @@
    cid: police
    cid: spanish hero
    cinc: commander
+   cit: citation
    cl: chlorine
    cl: class
    cl: clause
-   cl: gas - chlorine
+   cl: gas
+   cl: chlorine
    cl: hundred and fifty
    co: Colombia
    co: business
@@ -531,7 +556,8 @@
    co: company
    co: county
    co: firm
-   co: gas - carbon monoxide
+   co: gas
+   co: carbon monoxide
    co: house
    co: objector
    co: officer
@@ -554,6 +580,7 @@
    cooler: prison
    core: decentralise
    corn: naval commander
+   cos: lettuce
    cot: bed
    cot: house
    cow: lower
@@ -576,11 +603,14 @@
    cu: copper
    cu: see you
    cue: queue
-   cure: priest (Fr.)
+   cur: dog
+   cure: priest (French)
    cutie: pretty girl
    cv: autobiography
    cy: see why
-   d: (old) penny
+   d: penny
+   d: density
+   d: old penny
    d: Dee
    d: Democrat
    d: Deutsch
@@ -602,6 +632,7 @@
    d: diameter
    d: diamond
    d: differential operator
+   d: duke
    d: electrical flux
    d: five hundred
    d: four
@@ -614,16 +645,18 @@
    d: note +
    d: notice
    d: number
-   d: strings (violin)
+   d: strings
+   d: string
    d: violin string
    d: vitamin
    da: American lawyer
    da: District Attorney
-   da: agreement - foreign (Russ.)
+   da: agreement (Russian)
    da: dagger *
    da: lawman
    da: lawyer
-   da: yes (Russ.)
+   da: yes (Russian)
+   da: outdated hairdo ("duck's arse")
    dab: expert
    dad: father
    dad: old man
@@ -634,7 +667,7 @@
    dame: lady
    dan: tribe
    das: articles - German
-   das: the (Ger.)
+   das: the (German)
    dc: Washington
    dc: Washington
    dc: current
@@ -644,8 +677,8 @@
    dd: doctor
    dd: doctor of divinity
    dd: theologian
-   de: from (Fr.)
-   de: of (Fr.)
+   de: from (French)
+   de: of (French)
    dean: good man
    dec: Christmas period
    dec: last month
@@ -657,23 +690,23 @@
    deep: main
    deep: sea
    deg: degree
-   del: of the (Ital.)
-   dela: from the (Fr.)
-   dela: of the (Fr.)
+   del: of the (Italian)
+   dela: from the (French)
+   dela: of the (French)
    demi: half
    den: retreat
    den: study
    der: articles - German
-   der: the (Ger.)
+   der: the (German)
    derby: horse race
-   des: of the (Fr.)
+   des: of the (French)
    det: detective
    di: double
    di: five hundred and one
    di: princess
    di: two (double)
    die: articles - German
-   die: the (Ger.)
+   die: the (German)
    dime: 12.5 cents
    dior: designer
    dis: Hell
@@ -685,12 +718,13 @@
    dish: pretty girl
    dit: named
    dit: reported
-   dit: said (Fr.)
-   dit: say (Fr.)
+   dit: said (French)
+   dit: say (French)
    diy: amateur's department
    dk: Denmark
    dm: mark
-   do: (the) same
+   do: the same
+   do: same
    do: act
    do: cheat
    do: cook
@@ -713,8 +747,8 @@
    drake: bowler
    dt: alcoholic state
    dt: psychotic state
-   du: from the (Fr.)
-   du: of the (Fr.)
+   du: from the (French)
+   du: of the (French)
    dutch: wife
    e: Asian
    e: Edward
@@ -743,10 +777,13 @@
    e: oriental
    e: point
    e: quarter
-   e: strings (violin)
+   e: string
+   e: violin strings
+   e: violin string
    e: two hundred and fifty
    e: two hundred and fifty thousand
    e: universal set
+   e: vacant
    e: violin string
    e: vitamin
    ea: East Africa
@@ -783,14 +820,14 @@
    egg: cocktail
    egg: encourage
    eight: rowing boat
-   ein: number one (Ger.)
+   ein: number one (German)
    el: American railway
    el: American railway
    el: articles - Spanish
    el: measure
    el: printer's measure
    el: small measure
-   el: the (Span.)
+   el: the (Spanish)
    eld: old age
    eli: priest
    eli: prophet
@@ -840,10 +877,10 @@
    es: ease
    esp: sixth sense
    esp: telepathy
-   est: is (Fr.)
+   est: is (French)
    et: Egypt
    et: alien
-   et: and (Fr.)
+   et: and (French)
    et: exotic
    et: extraterrestrial
    et: film
@@ -892,7 +929,8 @@
    f: forte
    f: forty
    f: frequency
-   f: gas - fluorine
+   f: gas
+   f: fluorine
    f: hole
    f: key +
    f: loud
@@ -943,6 +981,7 @@
    fr: frequently
    ft: feet
    ft: foot
+   ft: newspaper
    ft: measure
    fz: forced
    g: Gauss
@@ -955,8 +994,9 @@
    g: gamut
    g: gee
    g: girl
-   g: gram(me)
-   g: grand (Amer.)
+   g: gram
+   g: gramme
+   g: grand
    g: gravity
    g: guinea
    g: gulf
@@ -964,7 +1004,10 @@
    g: man
    g: midnight
    g: note +
-   g: strings (violin)
+   g: string
+   g: strings
+   g: violin string
+   g: violin strings
    g: suit
    g: thousand
    g: thousand
@@ -1016,6 +1059,7 @@
    gr: Greece
    gr: Greek
    gr: King George
+   gr: George
    gr: grain
    gr: grammar
    gr: gramme
@@ -1038,7 +1082,8 @@
    h: Hungary
    h: Planck's constant
    h: bomb
-   h: gas - hydrogen
+   h: gas
+   h: hydrogen
    h: hand
    h: hard
    h: heart
@@ -1061,17 +1106,20 @@
    ha: this year
    haha: ditch
    haha: laugh
-   hair: net        lock keeper
-   ham: (poor) actor
+   hair net: lock keeper
+   ham: actor
+   ham: poor actor
    han: Chinese dynasty
    hand: worker
    has: bears
    haw: hedge
-   he: (high) explosive
+   he: high explosive
+   he: explosive
    he: His Excellency
    he: ambassador
    he: excellency
-   he: gas - helium
+   he: gas
+   he: helium
    he: governor
    he: helium
    he: legate
@@ -1094,7 +1142,7 @@
    hi: greeting
    hi: hello
    hic: here in Rome
-   hic: this (Lat.)
+   hic: this (Latin)
    him: male
    hm: Her Majesty
    hm: His Majesty
@@ -1122,6 +1170,7 @@
    i: eye
    i: first person
    i: imaginary number
+   i: individual
    i: iodine
    i: iota
    i: island
@@ -1154,7 +1203,8 @@
    ic: hundred
    ic: in charge
    ic: ninety nine
-   ice: diamond(s)
+   ice: diamond
+   ice: diamonds
    ice: hard water
    iceni: old people
    id: I had
@@ -1164,11 +1214,12 @@
    id: identification
    id: instinct
    id: same
-   id: that (Lat.)
+   id: that (Latin)
    ida: princess
    ide: fish
    idem: said
-   ie: that is (that's)
+   ie: that is
+   ie: that's
    if: condition
    if: provided
    if: providing
@@ -1180,7 +1231,7 @@
    il: Israel
    il: articles - Italian
    il: one pound
-   il: the (Ital.)
+   il: the (Italian)
    ilb: one pound
    ill: I shall
    ill: will
@@ -1213,13 +1264,14 @@
    ing: sling
    inn: local
    insect: six-footer
+   inst: this month
    intens: decimally
    io: cry of triumph
    io: joyful cry
    io: maiden
    io: ten
    io: triumphant cry
-   ioc: dime (Amer.)
+   ioc: dime (American)
    iom: Isle of Man
    iom: island
    iom: man
@@ -1267,8 +1319,8 @@
    j: pen
    j: square root of -1
    ja: Jamaica
-   ja: agreement - foreign (Ger.)
-   ja: yes (Ger.)
+   ja: agreement (German)
+   ja: yes (German)
    jack: sailor
    jack: salt
    jack: seaman
@@ -1320,7 +1372,8 @@
    ko: stunner
    kr: krypton
    kt: knight
-   kv: cave (beware)
+   kv: cave
+   kv: beware
    kv: cavy
    ky: Kentucky
    l: Labour
@@ -1338,7 +1391,7 @@
    l: hand
    l: inductance
    l: inexperienced driver
-   l: la(m)bda
+   l: lambda
    l: lake
    l: lambert
    l: latin
@@ -1380,9 +1433,9 @@
    la: articles - Spanish
    la: look *
    la: note
-   la: the (Fr.)
-   la: the (Ital.)
-   la: the (Span.)
+   la: the (French)
+   la: the (Italian)
+   la: the (Spanish)
    lab: Labour
    lab: laboratory
    lab: party
@@ -1397,12 +1450,15 @@
    lambda: Greek letter
    lamed: Hebrew letter
    lar: Libya
+   lar: God
+   lar: housekeeper
    laud: archbishop
    lay: song
    lb: one pound
    lb: pound
    le: articles - French
-   le: the (Fr.)
+   le: the (French)
+   lea: field
    lear: king
    lee: general
    leg: limb
@@ -1412,14 +1468,18 @@
    lei: flowers
    lei: wreath *
    lely: artist
+   lent: advanced
    les: articles - French
    les: the French
-   let: allow(ed)
+   let: allow
+   let: allowed
    let: hindrance
-   let: permit(ted)
+   let: permit
+   let: permitted
    let: service
    let: with a tenant
    lewis: gun
+   ley: field
    lh: left hand
    li: fifty one
    lib: Liberal
@@ -1432,6 +1492,7 @@
    ling: swimmer
    lips: mouthpiece
    lips: speakers
+   lis: flower
    lit: drunk
    lit: loaded
    lit: settled
@@ -1445,6 +1506,7 @@
    loch: lake
    log: maths function
    log: record
+   loo: office
    los: articles - Spanish
    loser: fabulous hare
    lot: large amount
@@ -1459,7 +1521,7 @@
    lt: Lieutenant
    lt: officer
    lud: old king
-   lum: chimney (Scot.)
+   lum: chimney (Scottish)
    lv: meal ticket
    m: Bond's boss
    m: French man
@@ -1472,6 +1534,7 @@
    m: male
    m: man
    m: many +
+   m: money
    m: mare
    m: mark
    m: married
@@ -1482,7 +1545,8 @@
    m: member
    m: meso-
    m: meta-
-   m: meter (metre)
+   m: meter
+   m: metre
    m: midday
    m: mile
    m: modulus
@@ -1520,7 +1584,7 @@
    man: hand
    man: husband
    man: island
-   man: piece (chess)
+   man: piece
    man: soldier
    man: worker
    manifesto: show-ring
@@ -1543,7 +1607,7 @@
    ment: meant
    ment: on purpose
    ment: understood
-   mer: sea (Fr.)
+   mer: sea (French)
    met: New York opera
    met: police
    mg: magnesium
@@ -1586,7 +1650,8 @@
    mp: member of parliament
    mp: military police
    mp: mounted police
-   mp: mountie(s)
+   mp: mountie
+   mp: mounties
    mp: policeman
    mp: politician
    mp: representative
@@ -1610,7 +1675,7 @@
    mum: mother
    mum: quiet
    mum: silence
-   mur: wall (Fr.)
+   mur: wall (French)
    mutt: dog
    my: gracious me
    n: Avogadro's number
@@ -1619,12 +1684,14 @@
    n: bridge players
    n: direction
    n: en
-   n: gas - nitrogen
+   n: gas
+   n: nitrogen
    n: half an em
    n: indefinite number
    n: knight
    n: midday
    n: name
+   n: national
    n: neper
    n: neuter
    n: new
@@ -1633,7 +1700,8 @@
    n: ninety thousand
    n: nitrogen
    n: noon
-   n: north(ern)
+   n: north
+   n: northern
    n: note
    n: noun
    n: nu
@@ -1645,11 +1713,11 @@
    n: unknown number
    n: unlimited number
    na: North America
-   na: no (Scot.)
-   na: not (Scot.)
+   na: no (Scottish)
+   na: not (Scottish)
    na: sodium
-   nae: no (Scot.)
-   nae: not (Scot.)
+   nae: no (Scottish)
+   nae: not (Scottish)
    nag: horse
    nag: little horse
    nat: born
@@ -1662,14 +1730,17 @@
    nco: sergeant
    nd: North Dakota
    nd: no date
+   nd: not dated
    ne: Durham area
    ne: Humberside
    ne: Tyneside
    ne: born
    ne: bridge opponents
-   ne: gas - neon
+   ne: gas
+   ne: neon
    ne: neon
    ne: north-east
+   ne: not
    ne: not (old word)
    ne: quarter
    neat: cattle
@@ -1691,9 +1762,12 @@
    nib: writer
    nick: prison
    nie: close (old word)
+   nie: close
    nie: near (old word)
+   nie: near
    nil: love
    nil: nothing
+   nim: game
    nitre: chemical
    nitre: fertiliser
    nj: New Jersey
@@ -1705,13 +1779,13 @@
    no: indefinite number
    no: not out
    no: number
-   no: play (Jap.)
+   no: play (Japanese)
    no: refusal
-   noh: play (Jap.)
+   noh: play (Japanese)
    noi: leading
    noi: no one
    noi: number one
-   non: no (Fr.)
+   non: no (French)
    nose: informer
    np: North Pole
    np: pole
@@ -1722,7 +1796,7 @@
    nt: Holy Writ
    nt: New Testament
    nt: Northern Territories
-   nt: book(s)
+   nt: book
    nt: books
    nt: good book
    nt: part of Bible
@@ -1737,7 +1811,8 @@
    nun: bluetit
    nurse: shark
    nus: dawn
-   nus: students' (union)
+   nus: students' union
+   nus: students
    nut: teachers
    nv: envy
    nw: Merseyside
@@ -1767,7 +1842,8 @@
    o: empty
    o: examination
    o: full moon
-   o: gas - oxygen
+   o: gas
+   o: oxygen
    o: globe
    o: gulf
    o: hole
@@ -1804,6 +1880,7 @@
    obit: last word
    oc: commander
    oc: officer commanding
+   od: supposed force
    odo: bishop
    oe: old English
    oe: old Etonian
@@ -1819,7 +1896,7 @@
    ok: correct
    ok: fine
    ok: okay
-   old: man         captain
+   old man: captain
    ole: cry of delight
    om: award
    om: honour
@@ -1856,6 +1933,7 @@
    or: before *
    or: gold
    or: yellow
+   or: non-commissioned officers (other ranks)
    oral: examination
    oral: test
    ord: no way
@@ -1871,17 +1949,18 @@
    os: owes
    os: sailor
    os: very large
-   ost: east (Ger.)
+   ost: east (German)
    ot: Holy Writ
    ot: Old Testament
-   ot: book(s)
+   ot: book
+   ot: books
    ot: good book
    ot: occupational therapy
    ot: part of Bible
    ot: scriptures
    ou: Open University
-   oui: agreement - foreign (Fr.)
-   oui: yes (Fr.)
+   oui: agreement (French)
+   oui: yes (French)
    ouija: Franco-German agreement
    ous: nothing to America
    ouse: river
@@ -1904,7 +1983,8 @@
    p: four hundred
    p: four hundred thousand
    p: page
-   p: park(ing)
+   p: park
+   p: parking
    p: participle
    p: pawn
    p: pea
@@ -1936,7 +2016,8 @@
    pas: dance
    pas: step
    pate: head
-   pawn: piece (chess)
+   pawn: piece
+   pawn: chess piece
    pawnbroker: uncle
    pb: lead
    pc: copper
@@ -1969,6 +2050,7 @@
    pitt: old Prime Minister
    pl: Poland
    pla: mountain retreat
+   play: the thing
    pla: port authority
    plato: philosopher
    plo: illegal army
@@ -1979,7 +2061,9 @@
    pm: half day
    pm: in the afternoon
    po: Italian flower
+   po: Italian banker
    po: Post Office
+   po: order
    po: airman
    po: palladium
    po: pole
@@ -1997,12 +2081,14 @@
    pp: pees
    pp: pianissimo
    pp: very quiet
-   pp: soft(ly)
+   pp: soft
+   pp: sofly
    pr: Puerto Rico
    pr: Romans
    pr: Roman people
    pr: electoral system
    pr: image building
+   pr: pair
    pr: president
    pr: price
    pr: prince
@@ -2053,15 +2139,17 @@
    q: queue
    q: quintal
    q: rational numbers
-   qp: kewpie (doll)
+   qp: kewpie
+   qp: doll
    qt: cutie
    qt: quart
    qt: quiet
    qu: quart
    qu: queen
+   qua: as
    quad: prison
-   que: what (Fr.)
-   qui: who (Fr.)
+   que: what (French)
+   qui: who (French)
    r: Reaumur
    r: Regina
    r: Republican
@@ -2104,10 +2192,13 @@
    ra: artist
    ra: big guns
    ra: gunmen
-   ra: gunner(s)
+   ra: gunner
+   ra: gunners
    ra: painter
    ra: soldiers
-   ra: sun (god)
+   ra: sun
+   ra: sun god
+   ra: god
    rab: Butler
    rac: motoring organisation
    race: people
@@ -2125,7 +2216,8 @@
    ras: prince
    rat: art nouveau
    rat: desert fighter
-   rat: desert(er)
+   rat: desert
+   rat: deserter
    rat: scab
    rat: strikebreaker
    rate: speed
@@ -2134,15 +2226,18 @@
    rd: little way
    rd: road
    rd: way
-   re: Royal Engineer(s)
+   re: Royal Engineer
+   re: Royal Engineers
    re: about
    re: again
    re: concerning
-   re: engineer(s)
+   re: engineer
+   re: engineers
    re: note
    re: over
    re: religious education
-   re: sapper(s)
+   re: sapper
+   re: sappers
    re: soldiers
    re: touching
    rebecca: Welsh riots
@@ -2163,13 +2258,15 @@
    rep: agent
    rep: salesman
    rep: traveller
+   rep: cloth
    res: old thing
    resh: Hebrew letter
    ret: soak
    rev: priest
    rev: vicar
    rex: cat
-   rg: argy(-bargy)
+   rg: argy
+   rg: argy-bargy
    rh: right hand
    ri: Rhode Island
    ri: king emperor
@@ -2189,7 +2286,8 @@
    rly: transport
    rly: way
    rm: Marine
-   rm: Royal Marine(s)
+   rm: Royal Marine
+   rm: Royal Marines
    rm: jolly
    rm: old Irish magistrate
    rm: resident magistrate
@@ -2207,13 +2305,14 @@
    rod: pole
    rod: sports car
    roi: French king
-   roi: king (Fr.)
+   roi: king (French)
    rom: gypsy
    rose: flower
    rosinante: poor horse
    rot: corruption
    rot: decay
    rot: rubbish
+   row: line
    rr: Right Reverend
    rr: Rolls Royce
    rr: ars
@@ -2225,13 +2324,14 @@
    ru: football
    ru: rugby
    ruc: Irish police
-   rue: street (Fr.)
+   rue: street (French)
    run: manage
    run: smuggle
    rur: Capek's play
    rv: bible
    ry: landline
-   ry: line(s)
+   ry: lines
+   ry: line
    ry: little way
    ry: rail
    ry: railway
@@ -2273,11 +2373,14 @@
    s: snow
    s: society
    s: son
-   s: south(ern)
+   s: soprano
+   s: southern
+   s: south
    s: space
    s: spade
    s: square
    s: stokes
+   s: succeeded
    s: sulphur
    s: sun
    s: us
@@ -2332,17 +2435,19 @@
    sh: hush
    sh: quiet
    sh: silence
-   she: (the) woman
+   scrip: shares
+   she: woman
+   she: the woman
    she: female
    she: lady
    she: novel
    sherpa: mountaineer
    si: South Island
-   si: agreement - foreign (Span.)
+   si: agreement (Spanish)
    si: note
    si: silicon
-   si: yes (Ital.)
-   si: yes (Span.)
+   si: yes (Italian)
+   si: yes (Spanish)
    sib: relation
    sic: thus
    side: team
@@ -2358,7 +2463,7 @@
    sly: tinker
    sm: French king
    sm: French queen
-   sm: king (Fr.)
+   sm: king (French)
    sm: non-commissioned officer
    smith: economist
    sn: Essen
@@ -2373,7 +2478,8 @@
    sol: note
    sol: sun-god
    som: county
-   some: approx(imately)
+   some: approx
+   some: approximately
    son: issue
    sop: soprano
    sos: appeal
@@ -2424,6 +2530,7 @@
    sub: stand-in
    sub: substitute
    sub: warship
+   sun: newspaper
    supra: over
    sure: certain
    sw: Cornwall
@@ -2432,7 +2539,7 @@
    sw: quarter
    sw: south-west
    swift: screecher
-   swiss: roll      jammed cylinder
+   swiss roll: jammed cylinder
    sx: Essex
    t: Thailand
    t: Tuesday
@@ -2459,10 +2566,12 @@
    t: te
    t: tea
    t: tee
+   t: tenor
    t: tesla
    t: the
    t: time
-   t: ton(ne)
+   t: ton
+   t: tonne
    t: tritium
    ta: Territorial Army
    ta: army
@@ -2485,6 +2594,7 @@
    tar: sailor
    tar: salt
    tar: seaman
+   tat: rubbish
    tata: Tosti's song
    tata: goodbye
    tate: gallery
@@ -2501,16 +2611,19 @@
    tee: peg
    teen: old injury
    tees: river
+   teg: young sheep
    tell: archer
    temp: secretary
    ten: PM's address
    tene: old injury
    tent: wine
-   ter: three (triple)
+   ter: three
+   ter: triple
    ter: thrice
    test: educational journal
    test: examination
    test: match
+   tet: offensive
    teth: Hebrew letter
    the: article
    the: articles - English
@@ -2518,6 +2631,7 @@
    tic: note
    tic: spasm
    tic: twitching
+   tid: three times a day
    tier: row
    time: father
    times: daily
@@ -2559,8 +2673,9 @@
    tr: translation
    tram: transport
    tree: actor
-   tres: very (Fr.)
-   tri: three (triple)
+   tres: very (French)
+   tri: three
+   tri: triple
    tri: thrice
    troy: ancient city
    troy: old city
@@ -2578,6 +2693,7 @@
    tt: teetotaller
    tt: thank you
    tu: tradesmen
+   tum: corporation
    tuck: friar
    twelve: eec
    two: company
@@ -2621,15 +2737,15 @@
    um: hesitation
    un: United Nations
    un: international
-   un: number one (Fr.)
+   un: number one (French)
    un: one
-   un: one (dialect)
+   un: one (Dialect)
    un: peacekeepers
-   una: number one (Ital.)
-   unco: very (Scot.)
-   une: number one (Fr.)
+   una: number one (Italian)
+   unco: very (Scottish)
+   une: number one (French)
    uno: international organisation
-   uno: number one (Ital.)
+   uno: number one (Italian)
    up: at university
    up: excited
    up: in court
@@ -2658,7 +2774,8 @@
    usa: America
    use: application
    use: custom
-   use: employ(ment)
+   use: employ
+   use: employment
    use: practice
    use: practise
    ussr: Soviet Union
@@ -2735,13 +2852,15 @@
    w: tungsten
    w: watt
    w: weak
-   w: west(ern)
+   w: west
+   w: western
    w: whole numbers
    w: wicket
    w: width
    w: wife
    w: woman
-   ward: disadvantage (drawback)
+   ward: disadvantage
+   ward: drawback
    washington: young feller
    we: partnership
    we: you and I
@@ -2754,6 +2873,7 @@
    wi: Westminster
    winner: fabulous tortoise
    wise: youth leaders
+   wist: knew
    wist: knew (old word)
    women: monstrous regiment
    woof: bark
@@ -2768,8 +2888,7 @@
    x: chromosome
    x: cross
    x: draw
-   x: ex
-   x: Exe
+   x: ex,Exe
    x: film
    x: illiterate's signature
    x: kiss
@@ -2812,13 +2931,17 @@
    yard: detectives
    yd: measure
    ye: the (old word)
+   ye: the
    ye: you (old word)
+   ye: you
    yea: agreement
    yew: tree
+   you: solver
    yr: year
    yr: your
    ys: wise
    ys: youth leaders
+   yt: that
    yt: that (old word)
    yu: jade
    yule: you will, say
@@ -2842,4 +2965,5 @@
    z: zeta
    zo: cross *
    zr: Zaire
-   zz: (sound of) snoring
+   zz: snoring
+   zz: sound of snoring
