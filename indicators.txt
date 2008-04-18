@@ -12,7 +12,8 @@
    a: alpha
    a: amateur
    a: ampere
-   a: an/ane
+   a: an
+   a: ane
    a: angstrom
    a: answer
    a: ante
@@ -54,7 +55,9 @@
    ab: able seaman
    ab: hand
    ab: rating
-   ab: sailor/salt/seaman
+   ab: sailor
+   ab: salt
+   ab: seaman
    ab: tar
    abbe: priest (Fr.)
    abe: Lincoln
@@ -97,7 +100,8 @@
    ad: notice
    ad: now
    ad: nowadays
-   ad: our time/era
+   ad: our time
+   ad: era
    ad: period
    ad: present day
    ad: promotion
@@ -210,7 +214,8 @@
    ape: copy
    ape: primate
    aq: water
-   ar: arrive/arrival
+   ar: arrive
+   ar: arrival
    ar: year of reign
    ara: academician
    ara: artist
@@ -222,7 +227,8 @@
    arm: gun
    arm: limb
    arm: member
-   arr: arrive/arrival
+   arr: arrive
+   arr: arrival
    art: contrivance
    art: craft
    art: cunning
@@ -380,7 +386,8 @@
    br: brig
    br: brother
    br: brown *
-   br: lines/landline
+   br: lines
+   br: landline
    br: railway(s)
    br: trains
    br: transport
@@ -398,7 +405,8 @@
    bull: American policeman
    bull: gold
    bus: transport
-   c: Celsius/centigrade
+   c: Celsius
+   c: centigrade
    c: Charles
    c: Conservative
    c: Cuba
@@ -410,7 +418,8 @@
    c: carbon
    c: caught
    c: cedi
-   c: cent/centime
+   c: cent
+   c: centime
    c: centi-
    c: century
    c: chapter
@@ -559,7 +568,8 @@
    ct: Connecticut
    ct: carat
    ct: caught
-   ct: cent/centime
+   ct: cent
+   ct: centime
    ct: court
    ct: small weight
    ct: weight
@@ -581,7 +591,8 @@
    d: date
    d: daughter
    d: day
-   d: dead/died
+   d: dead
+   d: died
    d: deci
    d: degree
    d: delete
@@ -708,12 +719,14 @@
    e: Asian
    e: Edward
    e: Elizabeth
-   e: England/English
+   e: England
+   e: English
    e: Spain
    e: boat
    e: bridge players
    e: direction
-   e: east/eastern
+   e: east
+   e: eastern
    e: eight
    e: eight thousand
    e: energy +
@@ -796,7 +809,8 @@
    en: measure
    en: printer's measure
    en: small measure
-   eng: England/English
+   eng: England
+   eng: English
    ent: otorhinolaryngology
    entry: record
    eon: age
@@ -1099,7 +1113,8 @@
    hun: barbarian
    i: Italy
    i: a
-   i: an/ane
+   i: an
+   i: ane
    i: ay
    i: aye
    i: che
@@ -1129,7 +1144,8 @@
    iam: boasting
    iam: early morning
    iam: self-confessed
-   ian: Scot/Scotsman
+   ian: Scot
+   ian: Scotsman
    ians: one answer
    ib: in the same place
    ib: same place
@@ -1154,8 +1170,10 @@
    idem: said
    ie: that is (that's)
    if: condition
-   if: provided/providing
-   ign: gin cocktail/sling
+   if: provided
+   if: providing
+   ign: gin cocktail
+   ign: sling
    ii: eleven
    ii: eyes
    ii: two
@@ -1164,7 +1182,8 @@
    il: one pound
    il: the (Ital.)
    ilb: one pound
-   ill: I shall/will
+   ill: I shall
+   ill: will
    ill: Illinois
    ill: badly
    ill: unwell
@@ -1190,7 +1209,8 @@
    inch: island
    ind: India
    ine: oriental
-   ing: gin cocktail/sling
+   ing: gin cocktail
+   ing: sling
    inn: local
    insect: six-footer
    intens: decimally
@@ -1249,13 +1269,16 @@
    ja: Jamaica
    ja: agreement - foreign (Ger.)
    ja: yes (Ger.)
-   jack: sailor/salt/seaman
+   jack: sailor
+   jack: salt
+   jack: seaman
    je: I, being French
    je: In Paris, I
    jo: little woman
    jo: sweetheart
    job: bookmaker
-   jock: Scot/Scotsman
+   jock: Scot
+   jock: Scotsman
    joe: American soldier
    jolly: Marine
    jug: prison
@@ -1327,7 +1350,8 @@
    l: length
    l: licentiate
    l: line
-   l: lira/lire
+   l: lira
+   l: lire
    l: litre
    l: long
    l: lumen
@@ -1484,7 +1508,8 @@
    ma: scholar
    mab: fairy queen
    mab: queen
-   mac: Scot/Scotsman
+   mac: Scot
+   mac: Scotsman
    main: deep
    main: sea
    mal: bad French
@@ -1547,7 +1572,8 @@
    mo: way of working
    mog: cat
    mon: Monday
-   mon: Scot/Scotsman
+   mon: Scot
+   mon: Scotsman
    moo: low
    moo: neat sound
    mos: months
@@ -1772,7 +1798,8 @@
    obe: award
    obe: honour
    obe: order
-   obit: dead/died
+   obit: dead
+   obit: died
    obit: final message
    obit: last word
    oc: commander
@@ -1969,9 +1996,11 @@
    pp: peas
    pp: pees
    pp: pianissimo
-   pp: very quiet/soft(ly)
+   pp: very quiet
+   pp: soft(ly)
    pr: Puerto Rico
-   pr: Romans/Roman people
+   pr: Romans
+   pr: Roman people
    pr: electoral system
    pr: image building
    pr: president
@@ -2154,7 +2183,8 @@
    river: banker
    river: flower
    river: runner
-   rly: lines/landline
+   rly: lines
+   rly: landline
    rly: railway
    rly: transport
    rly: way
@@ -2452,7 +2482,9 @@
    tan: maths function
    tar: able seaman
    tar: art nouveau
-   tar: sailor/salt/seaman
+   tar: sailor
+   tar: salt
+   tar: seaman
    tata: Tosti's song
    tata: goodbye
    tate: gallery
@@ -2569,7 +2601,8 @@
    u: trap
    u: tube
    u: turn
-   u: union/Unionist
+   u: union
+   u: Unionist
    u: universal
    u: university
    u: upper class
@@ -2676,13 +2709,16 @@
    vi: six
    via: old way
    vid: see
-   vid: tanner/sixpence
+   vid: tanner
+   vid: sixpence
    vide: look
    vide: see
    vin: French wine
    vip: big noise
-   vip: tanner/sixpence
-   vir: man/Roman
+   vip: tanner
+   vip: sixpence
+   vir: man
+   vir: Roman
    vis: viscount
    vj: victory
    vo: left hand
