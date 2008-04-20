@@ -1,3 +1,21 @@
+# This list is a reformatted and slightly updated version of one
+# compiled by Ross Beresford and posted to rec.puzzles.crosswords in
+# 1992.  That post can be found here:
+# 
+#   http://groups.google.com/group/rec.puzzles.crosswords/msg/09ddc2e84abbe18a
+#
+# I'm maintaining this list in a git repository that can be found on
+# github:
+# 
+#   https://github.com/mhl/cryptic-crossword-indicators-and-abbreviations/
+# 
+# Please let me know if you think something should be added to this list.
+# 
+# Those words marked with * are generally only found in advanced cryptic
+# crosswords and those marked with + are regarded as unsound by some.
+#
+# Mark Longair <mark-crosswords@longair.net>
+#
    a: Austria
    a: I
    a: academician
@@ -2889,7 +2907,8 @@
    x: chromosome
    x: cross
    x: draw
-   x: ex,Exe
+   x: ex
+   x: Exe
    x: film
    x: illiterate's signature
    x: kiss
