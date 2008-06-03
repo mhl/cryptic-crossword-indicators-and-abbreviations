@@ -444,6 +444,7 @@
    c: Celsius
    c: centigrade
    c: Charles
+   c: contralto
    c: Conservative
    c: Cuba
    c: about
@@ -1619,6 +1620,7 @@
    me: first person
    me: note
    me: number one
+   mel: honey
    men: people
    men: soldiers
    ment: intended
@@ -2289,6 +2291,7 @@
    rh: right hand
    ri: Rhode Island
    ri: king emperor
+   ria: drowned valley
    rib: wife
    rid: clear
    rid: free
@@ -2326,6 +2329,8 @@
    roi: French king
    roi: king (French)
    rom: gypsy
+   rom: memory
+   rom: Romans
    rose: flower
    rosinante: poor horse
    rot: corruption
@@ -2592,6 +2597,7 @@
    t: ton
    t: tonne
    t: tritium
+   t: Troy
    ta: Territorial Army
    ta: army
    ta: cheers
@@ -2789,6 +2795,7 @@
    us: undersecretary
    us: use
    us: useless
+   us: unservicable
    us: yews
    us: you and me
    usa: America
