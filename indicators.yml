@@ -715,6 +715,7 @@
    demi: half
    den: retreat
    den: study
+   den: office
    der: articles - German
    der: the (German)
    derby: horse race
@@ -813,6 +814,7 @@
    ear: listener
    ear: organ
    ear: spike *
+   ear: word processor
    earp: lawman
    eat: Tanzania
    ebor: archbishop
@@ -2343,6 +2345,7 @@
    rr: bishop
    rr: car
    rsm: non-commissioned officer
+   rsm: warrant officer
    rt: arty
    rt: right
    ru: football
