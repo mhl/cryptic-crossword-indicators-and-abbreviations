@@ -1780,6 +1780,8 @@
    net: capture
    net: fabric
    ney: Marshal
+   ney: soldier
+   ney: painter
    ng: no good
    ni: Northern Ireland
    ni: Ulster
