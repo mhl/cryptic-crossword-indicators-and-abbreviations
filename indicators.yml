@@ -781,6 +781,7 @@
    e: boat
    e: bridge players
    e: direction
+   e: earth
    e: east
    e: eastern
    e: eight
@@ -1434,6 +1435,7 @@
    l: lira
    l: lire
    l: litre
+   l: live
    l: long
    l: lumen
    l: luminance
@@ -1723,6 +1725,7 @@
    n: national
    n: neper
    n: neuter
+   n: neutral
    n: new
    n: newton
    n: ninety
