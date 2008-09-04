@@ -931,6 +931,8 @@
    ex: one time
    exe: river
    eye: I
+   eye: spectator
+   eye: looker
    eye: I say
    eye: seer
    eyot: island
@@ -1166,6 +1168,7 @@
    hg: Dad's army
    hg: mercury
    hh: very hard
+   hh: the pope
    hi: greeting
    hi: hello
    hic: here in Rome
@@ -1176,6 +1179,7 @@
    hm: king
    hm: queen
    ho: house
+   hon: unpaid
    hou: 45 minutes
    our: 45 minutes
    hobo: tramp
@@ -2049,6 +2053,7 @@
    para: Brazilian
    para: airborne soldier
    parent: source
+   part: leave
    pas: dance
    pas: step
    pate: head
@@ -2477,6 +2482,8 @@
    sh: hush
    sh: quiet
    sh: silence
+   sh: used
+   sh: second-hand
    scrip: shares
    she: woman
    she: the woman
@@ -2632,6 +2639,7 @@
    tal: chess grandmaster
    tan: beat
    tan: brown
+   tan: bark
    tan: maths function
    tar: able seaman
    tar: art nouveau
