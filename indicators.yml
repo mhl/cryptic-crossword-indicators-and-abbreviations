@@ -1748,6 +1748,7 @@
    n: midday
    n: name
    n: national
+   n: nationalist
    n: neper
    n: neuter
    n: neutral
@@ -2158,6 +2159,7 @@
    pr: pair
    pr: president
    pr: price
+   pr: priest
    pr: prince
    pr: public relations
    pr: two
@@ -2945,6 +2947,7 @@
    w: tungsten
    w: watt
    w: weak
+   w: week
    w: west
    w: western
    w: whole numbers
