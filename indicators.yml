@@ -417,6 +417,7 @@
    boa: snake
    board: directors
    bob: old shilling
+   bot: fly larva
    bp: bishop
    br: Britain
    br: British
@@ -890,6 +891,7 @@
    en: small measure
    eng: England
    eng: English
+   eng: modern journalism
    ent: otorhinolaryngology
    entry: record
    eon: age
@@ -2121,6 +2123,7 @@
    pi: religious
    pi: upright
    pier: mole
+   pin: number
    pit: Hell
    pitt: old Prime Minister
    pl: Poland
@@ -2331,6 +2334,7 @@
    red: leftist
    red: revolutionary
    red: socialist
+   red: former squadron
    regan: princess
    regan: wicked sister
    reine: French queen
@@ -2360,6 +2364,7 @@
    rio: port
    rip: final message
    rip: last word
+   rip: corn
    river: banker
    river: flower
    river: runner
@@ -2393,6 +2398,7 @@
    rom: gypsy
    rom: memory
    rom: Romans
+   rom: traveller
    rope: twenty feet
    rose: flower
    rosinante: poor horse
@@ -2744,6 +2750,7 @@
    tnt: big banger
    tnt: explosive
    to: tax officer
+   to: will
    tod: fox
    todo: commotion
    toe: extremity
@@ -2919,6 +2926,7 @@
    vb: verb
    ve: victory
    ven: ecclesiastical title (venerable)
+   ven: archdeacon
    ver: rev up
    very: light
    vet: surgeon
