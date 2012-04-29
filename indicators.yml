@@ -88,6 +88,7 @@
    able: can
    able: expert
    abo: native
+   abs: brakes
    ac: account
    ac: accountant
    ac: aircraftsman
@@ -169,6 +170,7 @@
    air: appearance
    air: display
    air: song
+   air: tune
    aire: river
    ait: island
    al: Alabama
@@ -841,6 +843,7 @@
    ebor: archbishop
    ec: London district
    ec: city
+   ec: Ecuador
    eccles: Cakesville
    ed: Edward
    ed: editor
@@ -1638,6 +1641,7 @@
    main: sea
    mal: bad French
    mam: mother
+   man: cove
    man: Friday
    man: fellow
    man: fighter
@@ -2006,6 +2010,8 @@
    or: gold
    or: yellow
    or: non-commissioned officers (other ranks)
+   or: men
+   or: soldiers
    oral: examination
    oral: test
    ord: no way
@@ -2230,6 +2236,7 @@
    quad: prison
    que: what (French)
    qui: who (French)
+   r: rabbi
    r: Reaumur
    r: Regina
    r: Republican
@@ -2324,6 +2331,7 @@
    re: sappers
    re: soldiers
    re: touching
+   re: troops
    rebecca: Welsh riots
    rec: recipe
    rec: take
@@ -2338,6 +2346,7 @@
    regan: princess
    regan: wicked sister
    reine: French queen
+   rel: relative
    reme: engineers
    rene: French man
    rep: agent
@@ -2467,6 +2476,7 @@
    s: snow
    s: society
    s: son
+   s: sons
    s: soprano
    s: southern
    s: south
