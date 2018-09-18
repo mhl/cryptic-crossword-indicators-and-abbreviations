@@ -1457,6 +1457,7 @@
    l: lambda
    l: lake
    l: lambert
+   l: large
    l: latin
    l: latitude
    l: league
@@ -1608,6 +1609,7 @@
    m: mass
    m: master
    m: measure
+   m: medium
    m: member
    m: meso-
    m: meta-
@@ -2476,6 +2478,7 @@
    s: side
    s: siemens
    s: sister
+   s: small
    s: snow
    s: society
    s: son
@@ -3040,6 +3043,7 @@
    xi: side
    xi: team
    xl: excel
+   xl: extra large
    xv: side
    xv: team
    y: alloy
