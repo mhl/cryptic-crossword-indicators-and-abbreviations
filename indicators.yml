@@ -227,8 +227,7 @@
    an: un
    ana: tales
    ane: I
-   ane: one
-   ane: one
+   ane: one 
    ankh: life symbol
    anne: princess
    anon: now
@@ -580,7 +579,6 @@
    cl: class
    cl: clause
    cl: gas
-   cl: chlorine
    cl: hundred and fifty
    co: Colombia
    co: business
@@ -708,7 +706,6 @@
    dan: tribe
    das: articles - German
    das: the (German)
-   dc: Washington
    dc: Washington
    dc: current
    dd: cleric
@@ -883,7 +880,6 @@
    ell: length
    ell: measure
    ely: city
-   ely: city
    ely: see
    em: measure
    em: printer's measure
@@ -983,7 +979,6 @@
    f: forty
    f: frequency
    f: gas
-   f: fluorine
    f: hole
    f: key +
    f: loud
@@ -1064,7 +1059,6 @@
    g: violin strings
    g: suit
    g: thousand
-   g: thousand
    g: violin string
    g: weight
    g-man: American detective
@@ -1140,7 +1134,6 @@
    h: Planck's constant
    h: bomb
    h: gas
-   h: hydrogen
    h: hand
    h: hard
    h: heart
@@ -1176,7 +1169,6 @@
    he: ambassador
    he: excellency
    he: gas
-   he: helium
    he: governor
    he: helium
    he: legate
@@ -1211,7 +1203,6 @@
    ho: house
    hon: unpaid
    hou: 45 minutes
-   our: 45 minutes
    hobo: tramp
    hock: prison
    hol: short break
@@ -1240,7 +1231,6 @@
    i: line
    i: lunchtime
    i: number one
-   i: one
    i: one
    i: single
    i: square root of -1
@@ -1757,7 +1747,6 @@
    n: direction
    n: en
    n: gas
-   n: nitrogen
    n: half an em
    n: indefinite number
    n: knight
@@ -1811,7 +1800,6 @@
    ne: born
    ne: bridge opponents
    ne: gas
-   ne: neon
    ne: neon
    ne: north-east
    ne: not
@@ -1920,7 +1908,6 @@
    o: examination
    o: full moon
    o: gas
-   o: oxygen
    o: globe
    o: gulf
    o: hole
@@ -2053,6 +2040,7 @@
    out: away
    out: not at home
    out: unfashionable
+   our: 45 minutes
    over: maiden
    ox: bull
    ox: neat
