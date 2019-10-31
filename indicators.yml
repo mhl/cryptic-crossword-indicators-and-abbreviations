@@ -64,7 +64,6 @@
    a: per
    a: road
    a: strings
-   a: violin string
    a: string
    a: un
    a: unit
@@ -227,7 +226,6 @@
    an: un
    ana: tales
    ane: I
-   ane: one
    ane: one
    ankh: life symbol
    anne: princess
@@ -580,7 +578,6 @@
    cl: class
    cl: clause
    cl: gas
-   cl: chlorine
    cl: hundred and fifty
    co: Colombia
    co: business
@@ -709,7 +706,6 @@
    das: articles - German
    das: the (German)
    dc: Washington
-   dc: Washington
    dc: current
    dd: cleric
    dd: days
@@ -829,7 +825,6 @@
    e: two hundred and fifty thousand
    e: universal set
    e: vacant
-   e: violin string
    e: vitamin
    ea: East Africa
    ea: each
@@ -869,7 +864,6 @@
    eight: rowing boat
    ein: number one (German)
    el: American railway
-   el: American railway
    el: articles - Spanish
    el: measure
    el: printer's measure
@@ -882,7 +876,6 @@
    ell: four feet
    ell: length
    ell: measure
-   ely: city
    ely: city
    ely: see
    em: measure
@@ -983,7 +976,6 @@
    f: forty
    f: frequency
    f: gas
-   f: fluorine
    f: hole
    f: key +
    f: loud
@@ -1004,8 +996,6 @@
    ff: followings
    ff: fortissimo
    ff: very loud
-   ff: very loud
-   ff: very strong
    ff: very strong
    fia: actuary
    fig: small illustration
@@ -1060,12 +1050,11 @@
    g: note +
    g: string
    g: strings
-   g: violin string
-   g: violin strings
    g: suit
    g: thousand
    g: thousand
    g: violin string
+   g: violin strings
    g: weight
    g-man: American detective
    ga: Georgia
@@ -1140,7 +1129,6 @@
    h: Planck's constant
    h: bomb
    h: gas
-   h: hydrogen
    h: hand
    h: hard
    h: heart
@@ -1176,7 +1164,6 @@
    he: ambassador
    he: excellency
    he: gas
-   he: helium
    he: governor
    he: helium
    he: legate
@@ -1240,7 +1227,6 @@
    i: line
    i: lunchtime
    i: number one
-   i: one
    i: one
    i: single
    i: square root of -1
@@ -1758,7 +1744,6 @@
    n: direction
    n: en
    n: gas
-   n: nitrogen
    n: half an em
    n: indefinite number
    n: knight
@@ -1812,7 +1797,6 @@
    ne: born
    ne: bridge opponents
    ne: gas
-   ne: neon
    ne: neon
    ne: north-east
    ne: not
@@ -1921,7 +1905,6 @@
    o: examination
    o: full moon
    o: gas
-   o: oxygen
    o: globe
    o: gulf
    o: hole
