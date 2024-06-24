@@ -1052,7 +1052,6 @@
    g: strings
    g: suit
    g: thousand
-   g: thousand
    g: violin string
    g: violin strings
    g: weight
@@ -1198,7 +1197,6 @@
    ho: house
    hon: unpaid
    hou: 45 minutes
-   our: 45 minutes
    hobo: tramp
    hock: prison
    hol: short break
@@ -2038,6 +2036,7 @@
    out: away
    out: not at home
    out: unfashionable
+   our: 45 minutes
    over: maiden
    ox: bull
    ox: neat
